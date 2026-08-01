@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-ee4c2c.svg)
 ![TIMM](https://img.shields.io/badge/TIMM-PyTorch%20Image%20Models-blue.svg)
 ![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-green.svg)
-![Coursework](https://img.shields.io/badge/Coursework-EEEM066%20FML-orange.svg)
+![Category](https://img.shields.io/badge/Category-Deep%20Learning-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-purple.svg)
 
 A modular PyTorch deep learning framework for **knife detection and image classification** utilizing transfer learning with `timm` backbones (defaulting to **EfficientNet-B0**). 
@@ -57,7 +57,7 @@ knife-detection-deep-learning/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/knife-detection-deep-learning.git
+git clone https://github.com/kishored1125/knife-detection-deep-learning.git
 cd knife-detection-deep-learning
 ```
 
@@ -149,9 +149,9 @@ python Testing.py \
 
 ---
 
-## 🎓 Academic Context
+## 🎯 Project Scope & Applications
 
-Developed for **EEEM066 Fundamentals of Machine Learning (FML)** coursework at the **University of Surrey**.
+Developed as a **Computer Vision & Deep Learning** project evaluating transfer learning backbones (TIMM / EfficientNet-B0), custom data augmentations, and mixed-precision optimization for object detection and safety monitoring applications.
 
 ---
 
