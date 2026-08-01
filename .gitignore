@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Checkpoints & Saved Model Weights (>50MB)
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+checkpoints/
+saved_models/
+runs/
+wandb/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large Image Datasets & Compressed Archives (Ignored due to GitHub size limits)
+*.zip
+*.tar.gz
+*.7z
+dataset/raw_images/
+dataset/images/
+dataset/*.jpg
+dataset/*.png
